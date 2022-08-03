@@ -52,3 +52,4 @@ my_matrix
 class(my_matrix)
 ```
 
+## Test pushing in terminal
